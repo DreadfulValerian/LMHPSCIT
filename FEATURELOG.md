@@ -11,13 +11,15 @@
 - Texture for beef jerky
 - Texture for most Magical Gadgets, Magical Items, Resources, Talismans, and Ender Talismans module items
 - Depowered enchantment glint for clarity of texture
-- Added a texture for borax
-- Added textures for crysta satchels
+- Textures for borax, cloth, and reinforced cloth
+- Textures for crysta satchels
 
 # v0.2.1 05/27/23
 - Depowered enchantment glint for clarity of texture
 - Added a texture for borax
 - Added textures for crysta satchels
+- Added a texture for nuke (in inventory)
+- Added a texture for cloth and reinforced cloth
 
 # v0.2.0 05/27/23
 - Incorporated https://www.planetminecraft.com/texture-pack/sealfun-magical/
