@@ -10,6 +10,9 @@
 - Shulker displays for "Redstone" (light blue, redstone dust), "Dyes" (light blue, white dye), "Combat" (cyan, iron sword), "Tools" (cyan, iron pick), "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask)
 - Texture for beef jerky
 - Texture for most Magical Gadgets, Magical Items, Resources, Talismans, and Ender Talismans module items
+- Depowered enchantment glint for clarity of texture
+- Added a texture for borax
+- Added textures for crysta satchels
 
 # v0.2.1 05/27/23
 - Depowered enchantment glint for clarity of texture
