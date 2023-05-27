@@ -1,4 +1,4 @@
-# Current Version (v0.1.4)
+# Current Version (v0.2.0)
 - Explosive Pickaxe has a distinct texture for both netherite and diamond form
 - Explosive Shovel has a distinct texture for both netherite and diamond form
 - Lumber Axe has a distinct texture for both netherite and diamond form
@@ -7,8 +7,16 @@
 - Mythical paintbrush uses modified version of the 1.20 brush texture
 - Slimefun guide has its own texture
 - Sword of Beheading has its own texture
-- Light blue shulkers named "Redstone" or "Dyes" display a redstone dust and white dye icon, respectively, in the inventory.
-- Cyan shulkers named "Combat" or "Tools" display an iron sword and iron pick icon, respectively, in the inventory.
+- Shulker displays for "Redstone" (light blue, redstone dust), "Dyes" (light blue, white dye), "Combat" (cyan, iron sword), "Tools" (cyan, iron pick), "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask)
+- Texture for beef jerky
+- Texture for most Magical Gadgets, Magical Items, Resources, Talismans, and Ender Talismans module items
+
+# v0.2.0 05/27/23
+- Incorporated https://www.planetminecraft.com/texture-pack/sealfun-magical/
+- Incorporated https://www.planetminecraft.com/texture-pack/sealfun-resources/
+- Added shulker displays for "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask)
+- Added beef jerky texture
+- Added pack icon
 
 # v0.1.4 05/27/23
 - Mythical paintbrush uses modified version of the 1.20 brush texture
