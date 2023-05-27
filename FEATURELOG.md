@@ -7,12 +7,15 @@
 - Mythical paintbrush uses modified version of the 1.20 brush texture
 - Slimefun guide has its own texture
 - Sword of Beheading has its own texture
+- Light blue shulkers named "Redstone" or "Dyes" display a redstone dust and white dye icon, respectively, in the inventory.
+- Cyan shulkers named "Combat" or "Tools" display an iron sword and iron pick icon, respectively, in the inventory.
 
 # v0.1.4 05/27/23
 - Mythical paintbrush uses modified version of the 1.20 brush texture
 - Slimefun guide has its own texture
 - Sword of Beheading has its own texture
-- 
+- Added shulker display for combat, tools, redstone, and dyes
+ 
 # v0.1.2 05/26/23
 - Retextured the hazmat suit with Mekanism's hazmat suit model
 
