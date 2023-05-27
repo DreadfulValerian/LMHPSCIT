@@ -5,7 +5,7 @@
 - Retextured golden apple
 - Hazmat suit has unique model
 - Mythical paintbrush uses modified version of the 1.20 brush texture
-- Slimefun guide has its own texture
+- Slimefun guide has its own texture (which is the pack icon)
 - Sword of Beheading has its own texture
 - Shulker displays for "Redstone" (light blue, redstone dust), "Dyes" (light blue, white dye), "Combat" (cyan, iron sword), "Tools" (cyan, iron pick), "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask)
 - Texture for beef jerky
