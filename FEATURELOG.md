@@ -1,4 +1,4 @@
-# Current Version (v0.2.0)
+# Current Version (v0.2.1)
 - Explosive Pickaxe has a distinct texture for both netherite and diamond form
 - Explosive Shovel has a distinct texture for both netherite and diamond form
 - Lumber Axe has a distinct texture for both netherite and diamond form
