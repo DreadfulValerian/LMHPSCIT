@@ -13,6 +13,7 @@
 - Depowered enchantment glint for clarity of texture
 - Textures for borax, cloth, and reinforced cloth
 - Textures for crysta satchels
+- Textures for the backpacks
 
 # v0.2.1 05/27/23
 - Depowered enchantment glint for clarity of texture
@@ -20,6 +21,7 @@
 - Added textures for crysta satchels
 - Added a texture for nuke (in inventory)
 - Added a texture for cloth and reinforced cloth
+- Added textures for backpacks
 
 # v0.2.0 05/27/23
 - Incorporated https://www.planetminecraft.com/texture-pack/sealfun-magical/
