@@ -1,4 +1,4 @@
-# Current Version (v0.2.1)
+# Current Version (v0.2.2)
 - Explosive Pickaxe has a distinct texture for both netherite and diamond form
 - Explosive Shovel has a distinct texture for both netherite and diamond form
 - Lumber Axe has a distinct texture for both netherite and diamond form
@@ -14,6 +14,12 @@
 - Textures for borax, cloth, and reinforced cloth
 - Textures for crysta satchels
 - Textures for the backpacks
+- Skip most helmet rendering for viewing of other players' faces
+- Retextured books named 'Journal' and 'Notepad'
+
+# v0.2.2 05/28/23
+- Added a skip most helmet rendering for viewing of other players' faces
+- Retextured books named 'Journal' and 'Notepad'
 
 # v0.2.1 05/27/23
 - Depowered enchantment glint for clarity of texture
