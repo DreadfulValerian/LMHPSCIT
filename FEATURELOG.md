@@ -16,6 +16,11 @@
 - Textures for the backpacks
 - Skip most helmet rendering for viewing of other players' faces
 - Retextured books named 'Journal' and 'Notepad'
+- Created cover for 'Nuclear Fire'
+
+# v0.2.3 05/28/23
+- Fixed helmet skipping for hazmat mask
+- Made a cover for Nuclear Fire by Doom
 
 # v0.2.2 05/28/23
 - Added a skip most helmet rendering for viewing of other players' faces
