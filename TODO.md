@@ -2,3 +2,6 @@
 - Bows
 - Silk touch vs fortune
 - Bee wings textures?
+- Radio
+- Sword
+- Axe
