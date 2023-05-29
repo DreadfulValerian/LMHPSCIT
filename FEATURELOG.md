@@ -7,7 +7,7 @@
 - Mythical paintbrush uses modified version of the 1.20 brush texture
 - Slimefun guide has its own texture (which is the pack icon)
 - Sword of Beheading has its own texture
-- Shulker displays for "Redstone" (light blue, redstone dust), "Dyes" (light blue, white dye), "Combat" (cyan, iron sword), "Tools" (cyan, iron pick), "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask)
+- Shulker displays for "Redstone" (light blue, redstone dust), "Dyes" (light blue, white dye), "Combat" (cyan, iron sword), "Tools" (cyan, iron pick), "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask), "Gifts" (purple, gift bundle)
 - Texture for beef jerky
 - Texture for most Magical Gadgets, Magical Items, Resources, Talismans, and Ender Talismans module items
 - Depowered enchantment glint for clarity of texture
@@ -15,7 +15,20 @@
 - Textures for crysta satchels
 - Textures for the backpacks
 - Skip most helmet rendering for viewing of other players' faces
+- "A Gift :3", "Admin Items", and "Spawn Eggs" bundle retextures
 - Retextured books named 'Journal' and 'Notepad'
+-  - All netherite picks named "(any text)'s Silk" and "(any text)'s Fortune" have new textures
+
+#v0.2.4 05/29/23
+- Added custom elytra textures for Valerian, Host, and 1x1x1x1
+- Texture for tape measure
+- Added "Gifts" (purple, gift bundle) shulker
+- Added "A Gift :3" bundle retexture
+- Added "Admin Items" bundle retexture
+- Added "Spawn Eggs" bundle retexture
+- Retextured broad pick and broad spade for parity with broad axe
+- All netherite picks named "(any text)'s Silk" and "(any text)'s Fortune" have new textures
+- Retextured a few personal items (sword and axe)
 
 # v0.2.3 05/28/23
 - Fixed helmet skipping for hazmat mask
