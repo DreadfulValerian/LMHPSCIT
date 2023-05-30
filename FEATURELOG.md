@@ -17,7 +17,7 @@
 - Skip most helmet rendering for viewing of other players' faces
 - "A Gift :3", "Admin Items", and "Spawn Eggs" bundle retextures
 - Retextured books named 'Journal' and 'Notepad'
--  - All netherite picks named "(any text)'s Silk" and "(any text)'s Fortune" have new textures
+-  Fortune tools have a red enchantment glint
 
 #v0.2.4 05/29/23
 - Added custom elytra textures for Valerian, Host, and 1x1x1x1
