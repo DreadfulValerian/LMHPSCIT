@@ -1,31 +1,20 @@
-# Current Version (v0.2.6)
-- Explosive Pickaxe has a distinct texture for both netherite and diamond form
-- Explosive Shovel has a distinct texture for both netherite and diamond form
-- Lumber Axe has a distinct texture for both netherite and diamond form
-- Retextured golden apple
-- Hazmat suit has unique model
-- Mythical paintbrush uses modified version of the 1.20 brush texture
-- Slimefun guide has its own texture (which is the pack icon)
-- Sword of Beheading has its own texture
-- Shulker displays for "Redstone" (light blue, redstone dust), "Dyes" (light blue, white dye), "Combat" (cyan, iron sword), "Tools" (cyan, iron pick), "Dreadful Faces" (blue, my skin's face), "Deco" (blue, item frame), "Valuables" (blue, raw gold), "Shulkers" (yellow, shulker shell), "XP" (yellow, splash XP bottle), "Food" (yellow, beef jerky), "Radioactives" (lime, hazmat mask), "Gifts" (purple, gift bundle)
-- Texture for beef jerky
-- Texture for most Magical Gadgets, Magical Items, Resources, Talismans, and Ender Talismans module items
-- Depowered enchantment glint for clarity of texture
-- Textures for borax, cloth, and reinforced cloth
-- Textures for crysta satchels
-- Textures for the backpacks
-- Skip most helmet rendering for viewing of other players' faces
-- "A Gift :3", "Admin Items", and "Spawn Eggs" bundle retextures
-- Retextured books named 'Journal' and 'Notepad'
-- Custom textures for all core Delve! cards
-- Custom texture for Valerian's Wrench
+# Current Version (v0.3.0)
+- Most tools retextured
+- Most resources retextured
+- Most magical items retextured
+- Unique hazmat suit model
+- Skip leather helmet rendering
+- Custom elytra
 
-#v0.2.6 06/23/23
+# v0.3.0 06/25/23
+- FINALLY RESOLVED TEXTURE CRUNCHING. Was due to a mip error with a 16x15 texture
+
+# v0.2.6 06/23/23
 - Realized I forgot to commit a changelog for last version
 - Custom textures for all core Delve! cards
 - Custom texture for Valerian's Wrench
 
-#v0.2.4 05/29/23
+# v0.2.4 05/29/23
 - Added custom elytra textures for Valerian, Host, MrBlue, the Gardener, and 1x1x1x1
 - Texture for tape measure
 - Added "Gifts" (purple, gift bundle) shulker
