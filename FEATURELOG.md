@@ -1,10 +1,14 @@
-# Current Version (v0.3.0)
+# Current Version (v0.3.1)
 - Most tools retextured
 - Most resources retextured
 - Most magical items retextured
 - Unique hazmat suit model
 - Skip leather helmet rendering
 - Custom elytra
+- Some other minor changes
+
+# v0.3.1 07/11/23
+- Mostly minor updates, fixing some models, et cetera, as well as culling some unused textures for space.
 
 # v0.3.0 06/25/23
 - FINALLY RESOLVED TEXTURE CRUNCHING. Was due to a mip error with a 16x15 texture
