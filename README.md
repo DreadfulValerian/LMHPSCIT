@@ -4,7 +4,7 @@ A CIT pack for LMHPS and mainly the Slimefun plugin.
 # How To Install And Use
 
 ## Dependencies 
-https://modrinth.com/mod/cit-resewn/version/1.1.2+1.19.2
+https://modrinth.com/mod/cit-resewn/
 
 https://fabricmc.net/use/installer/ 
 
